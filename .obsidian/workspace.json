@@ -81,14 +81,15 @@
             "id": "bde0244e7c179fd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "DevelopmentRepo/中间件/RAG/0Map-RAG.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Reference/learning-docs/00-主流文档地图.md",
+                "bFile": "Reference/learning-docs/00-主流文档地图.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "0Map-RAG"
+              "icon": "diff",
+              "title": "Diff: 00-主流文档地图  (Index)"
             }
           }
         ],
@@ -232,7 +233,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevelopmentRepo/中间件/RAG/0Map-RAG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -272,8 +272,8 @@
   },
   "active": "bde0244e7c179fd2",
   "lastOpenFiles": [
-    "Untitled.base",
     "DevelopmentRepo/中间件/RAG/0Map-RAG.md",
+    "Untitled.base",
     "DevelopmentRepo/中间件/RAG/数据预处理.md",
     "Todo-List.md.baiduyun.uploading.cfg",
     "Todo-List.md",
