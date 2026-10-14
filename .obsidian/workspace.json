@@ -240,14 +240,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4d711286a556edc3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,10 +272,11 @@
   },
   "active": "bde0244e7c179fd2",
   "lastOpenFiles": [
+    "Untitled.base",
+    "DevelopmentRepo/中间件/RAG/0Map-RAG.md",
     "DevelopmentRepo/中间件/RAG/数据预处理.md",
     "Todo-List.md.baiduyun.uploading.cfg",
     "Todo-List.md",
-    "DevelopmentRepo/中间件/RAG/0Map-RAG.md",
     "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md.baiduyun.uploading.cfg",
     "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md",
     "DevelopmentRepo/中间件/RAG/元数据.md.baiduyun.uploading.cfg",
@@ -284,7 +294,6 @@
     "DevelopmentRepo/中间件/RAG/文档切块.md",
     "DevelopmentRepo/中间件/RAG/Rag的工作流程.md",
     "DevelopmentRepo/开发方法/Review-Code-v1.1.md",
-    "DevelopmentRepo/中间件/RAG",
     "DevelopmentRepo/中间件/RAG/文档解析.md",
     "DevelopmentRepo/开发方法/开发方法.md",
     "Reference/买断制桌面应用发布指南.md",

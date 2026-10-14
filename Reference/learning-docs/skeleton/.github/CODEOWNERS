@@ -1,0 +1,4 @@
+*               @your-team
+/docs/*        @docs-owners
+/decisions/*   @tech-leads
+# Sources: next.js CODEOWNERS 实例 https://github.com/vercel/next.js/tree/canary/.github
