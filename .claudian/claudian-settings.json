@@ -157,7 +157,7 @@
   "settingsProvider": "claude",
   "lastSelectedChatModel": {
     "providerId": "claude",
-    "model": "haiku"
+    "model": "opus"
   },
   "savedProviderModel": {
     "claude": "haiku"
