@@ -81,15 +81,14 @@
             "id": "bde0244e7c179fd2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Reference/learning-docs/00-主流文档地图.md",
-                "bFile": "Reference/learning-docs/00-主流文档地图.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "DevelopmentRepo/中间件/RAG/嵌入.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 00-主流文档地图  (Index)"
+              "icon": "lucide-file",
+              "title": "嵌入"
             }
           }
         ],
@@ -233,6 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DevelopmentRepo/中间件/RAG/嵌入.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -250,6 +250,31 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "65d03a68f1b05427",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791989839650-wbd9v58",
+                      "conversationId": "conv-1791990153832-fll7ljz3s"
+                    },
+                    {
+                      "tabId": "tab-1791990657291-7ze1by7",
+                      "conversationId": "conv-1791990668172-7t36me9fl"
+                    }
+                  ],
+                  "activeTabId": "tab-1791990657291-7ze1by7"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
@@ -260,6 +285,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "realclaudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -270,15 +296,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "bde0244e7c179fd2",
+  "active": "4d711286a556edc3",
   "lastOpenFiles": [
+    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md",
+    "DevelopmentRepo/中间件/RAG/ChKYq9pR",
     "DevelopmentRepo/中间件/RAG/0Map-RAG.md",
     "Untitled.base",
     "DevelopmentRepo/中间件/RAG/数据预处理.md",
     "Todo-List.md.baiduyun.uploading.cfg",
     "Todo-List.md",
     "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md.baiduyun.uploading.cfg",
-    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md",
     "DevelopmentRepo/中间件/RAG/元数据.md.baiduyun.uploading.cfg",
     "DevelopmentRepo/中间件/RAG/0Map-RAG.md.baiduyun.uploading.cfg",
     "DevelopmentRepo/中间件/RAG/元数据.md",
@@ -289,7 +316,6 @@
     "AGENTS.md",
     "New Text Document.txt.baiduyun.uploading.cfg",
     "New Text Document.txt",
-    "New folder",
     "DevelopmentRepo/中间件/RAG/嵌入.md",
     "DevelopmentRepo/中间件/RAG/文档切块.md",
     "DevelopmentRepo/中间件/RAG/Rag的工作流程.md",
