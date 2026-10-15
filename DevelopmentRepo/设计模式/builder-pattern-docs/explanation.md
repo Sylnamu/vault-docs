@@ -1,4 +1,4 @@
-﻿# About the Builder Pattern
+# About the Builder Pattern
 
 The Builder pattern answers a question Java makes unusually awkward: how do
 you construct an object with several optional parts and keep the call site

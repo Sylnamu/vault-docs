@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevelopmentRepo/设计模式/builder-pattern-docs/explanation.md",
+                "file": "NoteRepo/NoteTheme/怎么做笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "explanation"
+              "title": "怎么做笔记"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevelopmentRepo/设计模式/builder-pattern-docs/explanation.md",
+                "file": "NoteRepo/NoteTheme/怎么做笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,9 +217,17 @@
                     {
                       "tabId": "tab-1792005075057-j84w8na",
                       "conversationId": "conv-1792005113352-ji7dsy22p"
+                    },
+                    {
+                      "tabId": "tab-1792024379081-pfwikml",
+                      "conversationId": "conv-1792030842393-2skugiwya"
+                    },
+                    {
+                      "tabId": "tab-1792032424176-ezqgxa8",
+                      "conversationId": "conv-1792033071035-tj7475byb"
                     }
                   ],
-                  "activeTabId": "tab-1792005075057-j84w8na"
+                  "activeTabId": "tab-1792032424176-ezqgxa8"
                 }
               },
               "icon": "bot",
@@ -242,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevelopmentRepo/设计模式/builder-pattern-docs/explanation.md",
+                "file": "NoteRepo/NoteTheme/怎么做笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,8 +338,20 @@
   },
   "active": "4d711286a556edc3",
   "lastOpenFiles": [
-    "DevelopmentRepo/中间件/RAG/嵌入.md",
+    "NoteRepo/NoteTheme/怎么做笔记.md.tmp.10032.9a51237757b8",
+    "NoteRepo/NoteTheme/待改名的Directory-Map.md",
+    "NoteRepo/NoteTheme/怎么做笔记.md",
+    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md",
+    "NoteRepo/NoteTheme",
+    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md.tmp.24024.68c9ce5f768b",
+    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md.tmp.24024.bf395dc0a811",
+    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md.tmp.24024.6a90222f05dd",
+    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md.tmp.24024.7de6cbae6eaf",
+    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md.tmp.24024.7a9cd174fa9d",
+    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md.tmp.24024.5273697203d4",
     "DevelopmentRepo/中间件/RAG/0Map-RAG.md",
+    "DevelopmentRepo/设计模式/builder-pattern-docs/explanation.md",
+    "DevelopmentRepo/中间件/RAG/嵌入.md",
     "DevelopmentRepo/中间件/RAG/Rag的工作流程.md",
     "Reference/索引方式参考.md",
     "DevelopmentRepo/开发方法/开发方法.md",
@@ -343,15 +363,7 @@
     "DevelopmentRepo/开发方法/BDD/BDD.md",
     "DevelopmentRepo/开发方法/DDD",
     "DevelopmentRepo/开发方法/BDD",
-    "AGENTS.md.tmp.8340.017f78c07f85",
-    "AGENTS.md.tmp.8340.9a11e3b98799",
-    "AGENTS.md.tmp.8340.d591b70301e8",
-    "AGENTS.md.tmp.8340.39056b2c0fd5",
-    "AGENTS.md.tmp.8340.03e1bd77608e",
     "README.md",
-    "AGENTS.md.tmp.25772.963afbbfd053",
-    "README.md.tmp.16452.67e4d3a634db",
-    "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md",
     "DevelopmentRepo/中间件/RAG/数据预处理.md",
     "Todo-List.md",
     "DevelopmentRepo/中间件/RAG/元数据.md",
@@ -361,9 +373,6 @@
     "DevelopmentRepo/中间件/RAG/文档解析.md",
     "Reference/买断制桌面应用发布指南.md",
     "DevelopmentRepo/开发方法/DDD.md",
-    "DevelopmentRepo/Untitled.md",
-    "Reference/diataxis-documentation/skills-backlog.md",
-    "Reference/diataxis-documentation/diataxis-skills.md",
-    "Reference/独立开发选品指南.md"
+    "DevelopmentRepo/Untitled.md"
   ]
 }
