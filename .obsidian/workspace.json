@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevelopmentRepo/中间件/RAG/嵌入.md",
+                "file": "DevelopmentRepo/设计模式/builder-pattern-docs/explanation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "嵌入"
+              "title": "explanation"
             }
           }
         ],
@@ -179,12 +179,70 @@
         "type": "tabs",
         "children": [
           {
+            "id": "deaba9666e6c4d7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevelopmentRepo/设计模式/builder-pattern-docs/explanation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "65d03a68f1b05427",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791989839650-wbd9v58",
+                      "conversationId": "conv-1791990153832-fll7ljz3s"
+                    },
+                    {
+                      "tabId": "tab-1792001783273-qjtgugj",
+                      "conversationId": "conv-1792001798817-wxyn3jvum"
+                    },
+                    {
+                      "tabId": "tab-1792001816106-qflo7dx",
+                      "conversationId": "conv-1792001842933-kgyyysf41"
+                    },
+                    {
+                      "tabId": "tab-1792005075057-j84w8na",
+                      "conversationId": "conv-1792005113352-ji7dsy22p"
+                    }
+                  ],
+                  "activeTabId": "tab-1792005075057-j84w8na"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "4d711286a556edc3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "0fe8a74463a479c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevelopmentRepo/中间件/文档切块.md",
+                "file": "DevelopmentRepo/设计模式/builder-pattern-docs/explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,64 +299,6 @@
             }
           },
           {
-            "id": "deaba9666e6c4d7e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "DevelopmentRepo/中间件/RAG/嵌入.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "4d711286a556edc3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "65d03a68f1b05427",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1791989839650-wbd9v58",
-                      "conversationId": "conv-1791990153832-fll7ljz3s"
-                    },
-                    {
-                      "tabId": "tab-1792001783273-qjtgugj",
-                      "conversationId": "conv-1792001798817-wxyn3jvum"
-                    },
-                    {
-                      "tabId": "tab-1792001816106-qflo7dx",
-                      "conversationId": "conv-1792001842933-kgyyysf41"
-                    },
-                    {
-                      "tabId": "tab-1792005075057-j84w8na",
-                      "conversationId": "conv-1792005113352-ji7dsy22p"
-                    }
-                  ],
-                  "activeTabId": "tab-1792005075057-j84w8na"
-                }
-              },
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "794e838bd5f316e4",
             "type": "leaf",
             "state": {
@@ -309,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -328,8 +328,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "794e838bd5f316e4",
+  "active": "4d711286a556edc3",
   "lastOpenFiles": [
+    "DevelopmentRepo/中间件/RAG/嵌入.md",
     "DevelopmentRepo/中间件/RAG/0Map-RAG.md",
     "DevelopmentRepo/中间件/RAG/Rag的工作流程.md",
     "Reference/索引方式参考.md",
@@ -351,7 +352,6 @@
     "AGENTS.md.tmp.25772.963afbbfd053",
     "README.md.tmp.16452.67e4d3a634db",
     "DevelopmentRepo/中间件/RAG/向量数据库的原理与选型.md",
-    "DevelopmentRepo/中间件/RAG/嵌入.md",
     "DevelopmentRepo/中间件/RAG/数据预处理.md",
     "Todo-List.md",
     "DevelopmentRepo/中间件/RAG/元数据.md",
